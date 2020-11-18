@@ -1,3 +1,3 @@
-# Protect the electoral process!!!
+# CoronaVirus Forecast
 
-https://verivote.herokuapp.com/
+https://virusforecaster.herokuapp.com/
