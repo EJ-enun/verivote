@@ -1,3 +1,3 @@
-# CoronaVirus Forecast
+# Stop The Fraud!!! ;)
 
-https://virusforecaster.herokuapp.com/
+https://verivote.herokuapp.com/
